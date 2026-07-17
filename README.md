@@ -1,10 +1,9 @@
-# ECS273 Homework templates
-In this repository, you will find the templates for your homework assignments.
-Please refer to the instructions provided on Canvas and the linked Google Docs for detailed requirements and submission guidelines.
+# Completed ECS273 Homeworks
+Forked from ECS 273 HW template repository, and completed the detailed assiignemtn requirements and submission guidelines provided on the class's Canvas page and linked Google Docs. 
 
-To clone this repository, please run:
+Cloned from the repository by running:
 ```
 git clone git@github.com:via-teaching/ecs273-25s.git
 ```
 
-Switch to the respective Homework directory for more information.
+Switch to the respective Homework directories for more information.
